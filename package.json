@@ -1,0 +1,23 @@
+{
+    "name": "pink-green-theme",
+    "displayName": "Pink Green Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "wk-j",
+    "icon": "images/profile.png",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pink Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pink-green-color-theme.json"
+            }
+        ]
+    }
+}

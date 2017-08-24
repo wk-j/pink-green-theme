@@ -4,13 +4,14 @@
 		"editor.background": "#151715",
 		//"editor.wordHighlightBackground": "#C642B6",
 		"terminalCursor.foreground": "#f257e0",
-		"editorCursor.background": "#f257e0",
+		"editorCursor.background": "#08FC21",
+		"editorCursor.foreground": "#ED3BFE",
 		//"editorIndentGuide.background": "#5D5D5D13",
 		"editorIndentGuide.background": "#5D5D5D1D",
 		//"editor.foreground": "#1FFF2A",
-		"editor.foreground": "#B7F894BA",
+		"editor.foreground": "#67E806EB",
 		"editorWhitespace.foreground": "#6B6B6B",
-		"editor.lineHighlightBackground": "#3B573C3B",
+		"editor.lineHighlightBackground": "#0D5A0F5E",
 		"editor.selectionBackground": "#304532"
 	},
 	"name": "Pink Green"

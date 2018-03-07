@@ -1,10 +1,10 @@
 {
     "name": "pink-green-theme",
     "displayName": "Pink Green Theme",
-    "description": "",
-    "version": "0.0.4",
+    "description": "Pink & Green",
+    "version": "18.3.0",
     "publisher": "wk-j",
-    "icon": "images/profile.png",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.15.0"
     },

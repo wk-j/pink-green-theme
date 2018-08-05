@@ -2,11 +2,15 @@
     "name": "pink-green-theme",
     "displayName": "Pink Green Theme",
     "description": "Pink & Green",
-    "version": "18.3.1",
+    "version": "18.3.2",
     "publisher": "wk-j",
-    "icon": "images/icon.png",
+    "icon": "images/profile.png",
     "engines": {
         "vscode": "^1.15.0"
+    },
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/wk-j/pink-green-theme.git"
     },
     "categories": [
         "Themes"
